@@ -88,7 +88,7 @@
 ```json
 {
   "frontend": ["typescript", "react", "next.js", "css|tailwindcss|heroui", "storybook"],
-  "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb|postgres|prisma", "golang"],
+  "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb|postgres|prisma|mysql", "golang"],
   "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:solana|anchor"],
   "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "tmux", "zsh", "git", "gcp"],
   "data@alpha": ["python", "jupyter", "pandas", "numpy", "matplotlib"]
