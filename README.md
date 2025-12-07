@@ -3,7 +3,7 @@
 ### Some words about me
 
 <p>
-    <👾 /> Hi (你好), I'm Tao, an experienced and passionate software engineer.
+    <👾 /> Hi (你好), I'm Leo, an experienced and passionate software engineer.
     <br>
     <🎯 /> I'm currently working on <a href="https://visaexplorer.cn">visaexplorer.cn</a>, <a href="https://tipprotector.app">tipprotector.app</a> and looking for the next adventure.
     <br>
